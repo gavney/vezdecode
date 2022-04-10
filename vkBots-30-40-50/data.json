@@ -1,0 +1,98 @@
+{
+  "like": 7,
+  "dislike": 12,
+  "505450122": {
+    "photo-viewed": [
+      "457240660.png",
+      "457240687.png",
+      "457240688.png",
+      "457240682.png",
+      "457240692.png",
+      "457240646.png",
+      "457240696.png"
+    ],
+    "like": 5,
+    "dislike": 2
+  },
+  "457240660.png": {
+    "like-photo": 1
+  },
+  "457240687.png": {
+    "like-photo": 0
+  },
+  "457240688.png": {
+    "like-photo": 1
+  },
+  "295361131": {
+    "photo-viewed": [
+      "457240701.png",
+      "457240708.png",
+      "457240709.png",
+      "457240650.png"
+    ],
+    "like": 0,
+    "dislike": 4
+  },
+  "457240701.png": {
+    "like-photo": 0
+  },
+  "457240708.png": {
+    "like-photo": 0
+  },
+  "457240709.png": {
+    "like-photo": 0
+  },
+  "457240650.png": {
+    "like-photo": 0
+  },
+  "530911745": {
+    "photo-viewed": [
+      "457240683.png",
+      "457240649.png",
+      "2191.jpg",
+      "457240698.png",
+      "9605.jpg",
+      "457240678.png",
+      "457240659.png",
+      "457240705.png"
+    ],
+    "like": 2,
+    "dislike": 6
+  },
+  "457240683.png": {
+    "like-photo": 0
+  },
+  "457240649.png": {
+    "like-photo": 1
+  },
+  "2191.jpg": {
+    "like-photo": 0
+  },
+  "457240698.png": {
+    "like-photo": 0
+  },
+  "9605.jpg": {
+    "like-photo": 1
+  },
+  "457240678.png": {
+    "like-photo": 0
+  },
+  "457240659.png": {
+    "like-photo": 0
+  },
+  "457240705.png": {
+    "like-photo": 0
+  },
+  "457240682.png": {
+    "like-photo": 1
+  },
+  "457240692.png": {
+    "like-photo": 1
+  },
+  "457240646.png": {
+    "like-photo": 1
+  },
+  "457240696.png": {
+    "like-photo": 0
+  }
+}
